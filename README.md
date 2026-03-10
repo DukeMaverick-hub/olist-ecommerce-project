@@ -95,7 +95,7 @@ Built 3 interactive dashboards connected to the MySQL data model:
 ### Trend Analysis
 ![Trend Analysis](Visualizations/Trend%20analysis.png)
 
-### Operations & Geography
+### Operations & Locations
 ![Bar Analysis](Visualizations/Bar%20analysis.png)
 
 ---
