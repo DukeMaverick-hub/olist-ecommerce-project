@@ -90,13 +90,13 @@ Built 3 interactive dashboards connected to the MySQL data model:
 ## 📸 Dashboard Screenshots
 
 ### Overview
-![Overview Dashboard](Visualizations/Composition analysis.png)
+![Composition Analysis](Visualizations/Composition%20analysis.png)
 
 ### Trend Analysis
-![Trend Analysis](Visualizations/Trend analysis.png)
+![Trend Analysis](Visualizations/Trend%20analysis.png)
 
 ### Operations & Geography
-![Bar Analysis](Visualizations/Bar analysis.png)
+![Bar Analysis](Visualizations/Bar%20analysis.png)
 
 ---
 
